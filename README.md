@@ -26,9 +26,9 @@ The course is a **5 ECTS Master's level advanced course** focusing on **big data
 ---
 
 ## 📂 Repository Structure
-
+```
 big-data-platform-fall25/
- ├── Intro/ 
+ ├── Intro/
  ├── RDD/
  ├── dataframe/ 
  ├── MLlib/ 
@@ -36,7 +36,7 @@ big-data-platform-fall25/
  ├── Structured Streaming/
  ├── docs/ 
  └── README.md           # You are here
-
+```
 ## 🧾 Note
 
 This repository is created only for **educational purposes** as part of the *Big Data Platform* course at the **University of Helsinki (Fall 2025)**.
